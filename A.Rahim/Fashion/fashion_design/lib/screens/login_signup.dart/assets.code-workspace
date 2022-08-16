@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../../../../../../shopping_cart_app/assets"
+		},
+		{
+			"name": "fashion_design",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}

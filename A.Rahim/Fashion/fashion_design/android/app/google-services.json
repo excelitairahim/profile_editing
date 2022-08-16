@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "382411071483",
+    "project_id": "fashion-1998d",
+    "storage_bucket": "fashion-1998d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382411071483:android:fc33794c4d4a5fd7ceb55e",
+        "android_client_info": {
+          "package_name": "com.example.fashion_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382411071483-kq6ua89ibg7fpoi7sn62us7tcnnf0stp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashion_design",
+            "certificate_hash": "0f544d2a62118b8a091273dc361bbf369bde7744"
+          }
+        },
+        {
+          "client_id": "382411071483-rlpal6vnqong26ubb7ld3pvt0qt5o6sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtc0olJOpre5FJMXbkfsaEGz3hXlj-p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382411071483-rlpal6vnqong26ubb7ld3pvt0qt5o6sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
